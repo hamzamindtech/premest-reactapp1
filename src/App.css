@@ -1,11 +1,12 @@
 .banner {
   height: 150px;
-  width: 990px;
+ 
   background-color: #264F93;
 }
 
 .maintitle {
   color: white;
+  text-align: center;
   padding: 45px;
   font-size: 40px;
 }

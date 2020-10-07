@@ -2,7 +2,7 @@ import React from 'react';
 
 function ThirdComponent (){
     return (
-        <>
+        <center>
     <p>Below is a summary of Los Blancos' summer depature business.</p>
 	<body>
 		<table >
@@ -59,7 +59,7 @@ function ThirdComponent (){
         </table>
 	</body>
 
-        </>
+        </center>
     );
 }
 

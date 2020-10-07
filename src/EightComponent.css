@@ -3,7 +3,6 @@
 
     background-color: #264E93;
     height: 150px;
-    width: 700px;
     padding-top: 0px;
     }
 
@@ -19,7 +18,7 @@
 
     .clickbutton {
     background-color: #FFFFFF;
-    position: center;
+    
     border: none;
     color: black;
     padding: 12px 28px;

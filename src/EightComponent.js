@@ -1,15 +1,18 @@
 import React from 'react';
+import './EightComponent.css';
 
 function EightComponent (){
+
     return (
-        <>
-            <br></br>
-            <br></br>
-            <a target="_blank" href="https://twitter.com/HamzaMindTECH">
-                Contact the author for Real Madrid Transfer News</a>
-            <br></br>
-            <br></br>
-        </>
+        <div class="contact-button">
+
+            <p class="bottombutton" >
+                Contact the author for more on Real Madrid Transfer News</p>
+            
+            <a class="clickbutton" target="_blank" href="https://twitter.com/HamzaMindTECH">
+                CLICK HERE!
+            </a>
+        </div>
     );
 }
 

@@ -1,0 +1,30 @@
+
+.contact-button {
+
+    background-color: #264E93;
+    height: 150px;
+    width: 700px;
+    padding-top: 0px;
+    }
+
+    .bottombutton {
+    border: none;
+    color: white;
+    padding: 15px 110px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    }
+
+    .clickbutton {
+    background-color: #FFFFFF;
+    position: center;
+    border: none;
+    color: black;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    }

@@ -1,4 +1,5 @@
 import React from 'react';
+import './ThirdComponent.css';
 
 function ThirdComponent (){
     return (

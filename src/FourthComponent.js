@@ -3,7 +3,7 @@ import React from 'react';
 function FourthComponent (){
     return (
         <center>
-    <p>Below is a list of players who return from loan.</p>
+    <p>Below is a list of players who returned from loan.</p>
 	<body>
 		<table >
             <tbody>

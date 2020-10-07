@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import FirstComponent from './FirstComponent';
 import SecondComponent from './SecondComponent';
+import ThirdComponent from './ThirdComponent';
+import FourthComponent from './FourthComponent';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
@@ -11,6 +13,8 @@ ReactDOM.render(
     <App />
     <FirstComponent />
     <SecondComponent />
+    <ThirdComponent />
+    <FourthComponent />
   </React.StrictMode>,
   document.getElementById('root')
 );

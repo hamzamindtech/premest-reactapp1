@@ -47,6 +47,14 @@ function ThirdComponent (){
                        Roma
                     </td>
                 </tr>
+                <tr>
+                    <td>
+                       James Rodriguez
+                    </td>
+                    <td >
+                       Everton
+                    </td>
+                </tr>
             </tbody>
         </table>
 	</body>

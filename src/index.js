@@ -6,6 +6,10 @@ import FirstComponent from './FirstComponent';
 import SecondComponent from './SecondComponent';
 import ThirdComponent from './ThirdComponent';
 import FourthComponent from './FourthComponent';
+import FifthComponent from './FifthComponent';
+import SixthComponent from './SixthComponent';
+import SeventhComponent from './SeventhComponent';
+import EightComponent from './EightComponent';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
@@ -15,6 +19,10 @@ ReactDOM.render(
     <SecondComponent />
     <ThirdComponent />
     <FourthComponent />
+    <FifthComponent />
+    <SixthComponent />
+    <SeventhComponent />
+    <EightComponent />
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -2,11 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import FirstComponent from './FirstComponent';
+import SecondComponent from './SecondComponent';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <FirstComponent />
+    <SecondComponent />
   </React.StrictMode>,
   document.getElementById('root')
 );
